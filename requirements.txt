@@ -1,3 +1,10 @@
 langchain
+langchain-community
 langchain-groq
+groq
+chromadb
+sentence-transformers
+python-dotenv
+streamlit
+pandas
 
