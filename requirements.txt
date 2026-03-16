@@ -7,4 +7,4 @@ sentence-transformers
 python-dotenv
 streamlit
 pandas
-
+beautifulsoup4
